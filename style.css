@@ -1,0 +1,17 @@
+.nav-link:hover{
+    display: inline-block;
+    border-bottom: 2px solid black;
+  }
+  .div-width{
+    width: 150px;
+  }
+  .icon-div{
+    width: 72px;
+    height: 72px;
+  }
+  .card:hover{
+    box-shadow: 0 3px 10px rgb(51 51 51 /30%);
+  }
+  .brand-style:hover{
+    opacity: .5;
+  }
